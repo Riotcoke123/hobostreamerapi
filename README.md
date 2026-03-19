@@ -2,6 +2,7 @@
   <h1>📡 HoboStreamer API</h1>
   <p>The official public API documentation for <a href="https://hobostreamer.com/">HoboStreamer</a>.</p>
 </div>
+<img width="533" height="95" alt="11111" src="https://github.com/user-attachments/assets/d39c8e06-4229-4a63-accf-d30e2be41f92" />
 
 <hr>
 

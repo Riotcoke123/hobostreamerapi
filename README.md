@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>📡 HoboStreamer API</h1>
+  <h1>HoboStreamer API</h1>
   <p>The official public API documentation for <a href="https://hobostreamer.com/">HoboStreamer</a>.</p>
 </div>
 <img width="533" height="95" alt="11111" src="https://github.com/user-attachments/assets/d39c8e06-4229-4a63-accf-d30e2be41f92" />
 
 <hr>
 
-<h2>🔐 Authentication</h2>
+<h2>Authentication</h2>
 <p>The API is currently <strong>public</strong>. No API keys or headers are required to access public channel data.</p>
 
 <hr>
 
-<h2>🌐 Endpoints</h2>
+<h2>Endpoints</h2>
 
 <h3>Get Channel Metadata</h3>
 <p>Returns the complete state of a channel, including active stream status, third-party restream links (Kick/Twitch), and a historical list of VODs.</p>
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h2>📊 Data Definitions</h2>
+<h2>Data Definitions</h2>
 <table>
   <thead>
     <tr>
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h2>📂 Example Full Response</h2>
+<h2>Example Full Response</h2>
 <details>
   <summary><strong>View Production JSON (goosely)</strong></summary>
 

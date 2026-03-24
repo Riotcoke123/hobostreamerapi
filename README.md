@@ -1,6 +1,4 @@
-Here is the complete documentation, including the new "How-to-Use" guides, consolidated into a single HTML structure for your README or website.
 
-HTML
 <div align="center">
   <h1>HoboStreamer API & Developer Tools</h1>
   <p>The official public documentation for <a href="https://hobostreamer.com/">HoboStreamer</a> and the <a href="https://dev.hobo.tools/">HoboDev</a> utility suite.</p>
